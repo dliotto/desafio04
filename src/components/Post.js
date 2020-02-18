@@ -4,12 +4,11 @@ import Comment from './Comment';
 function  Post({key, author, date, content, comments}){
     return(
         <div key={key} className="post">
-            <span>
+            <div className="imagem"><img src={author.avatar} /></div>
+            <div className="name">
                 {author.name}
-                <br />
-                <span>{date}</span>
-            </span>
-            <br />
+                <span className="date">{date}</span>
+            </div>
             <p>
                 {content}
             </p>

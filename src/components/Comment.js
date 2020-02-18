@@ -3,6 +3,7 @@ import React from 'react';
 function Comment({key, author, content}){
         return(
             <>
+            <hr />
             <div key={key} className="comment">
                 <div className="imagem"><img src={author.avatar} /></div>
                 <div className="content">

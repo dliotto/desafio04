@@ -9,7 +9,7 @@ class PostList extends Component{
             id: 1,
             author: {
               name: "Julio Alcantara",
-              avatar: "https://avatars0.githubusercontent.com/u/6189810?s=460&v=4"
+              avatar: "https://abrilexame.files.wordpress.com/2018/10/8dicas1.jpg?quality=70&strip=info&w=382&h=382"
             },
             date: "04 Jun 2019",
             content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
@@ -28,7 +28,7 @@ class PostList extends Component{
             id: 2,
             author: {
               name: "Julio Alcantara",
-              avatar: "https://avatars0.githubusercontent.com/u/6189810?s=460&v=4"
+              avatar: "https://abrilexame.files.wordpress.com/2018/10/8dicas1.jpg?quality=70&strip=info&w=382&h=382"
             },
             date: "04 Jun 2019",
             content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
