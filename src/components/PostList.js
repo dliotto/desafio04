@@ -9,7 +9,7 @@ class PostList extends Component{
             id: 1,
             author: {
               name: "Julio Alcantara",
-              avatar: "http://url-da-imagem.com/imagem.jpg"
+              avatar: "https://avatars0.githubusercontent.com/u/6189810?s=460&v=4"
             },
             date: "04 Jun 2019",
             content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
@@ -17,8 +17,35 @@ class PostList extends Component{
               {
                 id: 1,
                 author: {
+                  name: "Douglas Hartmann",
+                  avatar: "https://avatars0.githubusercontent.com/u/6189810?s=460&v=4"
+                },
+                content: "Conteúdo do comentário"
+              }
+            ]
+          },
+          {
+            id: 2,
+            author: {
+              name: "Julio Alcantara",
+              avatar: "https://avatars0.githubusercontent.com/u/6189810?s=460&v=4"
+            },
+            date: "04 Jun 2019",
+            content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
+            comments: [
+              {
+                id: 1,
+                author: {
+                  name: "Douglas Hartmann",
+                  avatar: "https://avatars0.githubusercontent.com/u/6189810?s=460&v=4"
+                },
+                content: "Conteúdo do comentário"
+              },
+              {
+                id: 2,
+                author: {
                   name: "Diego Fernandes",
-                  avatar: "http://url-da-imagem.com/imagem.jpg"
+                  avatar: "https://avatars0.githubusercontent.com/u/6189810?s=460&v=4"
                 },
                 content: "Conteúdo do comentário"
               }
